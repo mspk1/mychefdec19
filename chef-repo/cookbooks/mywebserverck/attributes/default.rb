@@ -12,7 +12,7 @@ end
 
 default['mywebserverck']['mutipack']=['git','wget','tree']
 
-default['java']['jdk_version'] = '8'
+default['java']['jdk_version'] = '9'
 
 
 force_default['chef_client']['interval']    = '300'
